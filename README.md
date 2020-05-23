@@ -10,7 +10,7 @@ You should see failed tests and generated report in **build/reports/html** direc
 ## Report
 To open report **build/report/html/index.html**
 
-# To Run a Single Test
+## To Run a Single Test
 ```bash
 gradle test --tests *TablePracticeTest.verifyTotalNumberOfRowsForTaskTable
 ```
